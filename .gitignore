@@ -1,0 +1,12 @@
+/.idea/
+/src/D:/
+/D:/
+/src/package-lock.json
+/src/ruoyi.iml
+/src/ruoyi.ipr
+/src/ruoyi.iws
+/src/*/target/
+/src/*/*.project
+/src/*/*.iml
+/src/*/*.idea
+/src/*/*.settings
